@@ -29,6 +29,40 @@ Motivated **B.Tech Artificial Intelligence & Data Science** student (Expected Ma
 
 ---
 
+## 🐍 Contribution Grid & Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saravanavel07/saravanavel07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saravanavel07/saravanavel07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saravanavel07/saravanavel07/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+## 🧩 LeetCode Profile Overview
+
+<div align="center">
+  
+  [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile_Overview-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saravana_6)
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/saravana_6">
+    <img src="https://leetcode-stats-api.herokuapp.com/saravana_6" alt="Saravana's LeetCode Stats" width="85%" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://leetcode.com/u/saravana_6">
+    <img src="https://github-readme-leetcode.vercel.app/api?username=saravana_6&theme=dark" alt="LeetCode Card" width="70%" />
+  </a>
+
+</div>
+
+---
+
 ## 🛠️ Technical Stack & Tools
 
 | Domain | Technologies & Tools |
