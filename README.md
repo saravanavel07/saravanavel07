@@ -1,9 +1,9 @@
-# ⚔️ SARAVANA VEL A — AI & ML Systems Architect
-
 <div align="center">
-  
-> **🏛️ Classical Intelligence Meets Cutting-Edge AI**
-> 
+
+# SARAVANA VEL A — AI & ML Systems Architect
+
+> **Classical Intelligence Meets Cutting-Edge AI**
+>
 > *Building production-grade AI systems that scale. Optimizing the future, one algorithm at a time.*
 
 ---
@@ -25,14 +25,14 @@
 ## 🎯 EXECUTIVE SNAPSHOT
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────�[...]
 │  ⚡ 40% Inference Latency Reduction  │  🏆 Patent Holder        │
 │  🔧 3 Internships | 4 Production ML Systems  │  📊 95% CV Accuracy      │
 │  🚀 End-to-End ML Pipeline Architecture  │  🧠 Multi-Agent AI        │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────�[...]
 ```
 
-**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade solutions with measurable business impact.
+**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterp[...]
 
 **What I Deliver:**
 - 🔬 **ML Systems that Scale** — From research to production
@@ -349,7 +349,7 @@
 
 | **MASTERY** | **DELIVERY** | **IMPACT** |
 |:---|:---|:---|
-| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accuracy, 15% improvement |
+| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accurac[...]
 | Proven ability across multiple AI/ML domains | Cross-functional team collaboration | Enterprise-grade systems impacting millions |
 | Continuous learning & research-driven mindset | Autonomous problem-solver | Production systems at scale |
 
@@ -360,7 +360,7 @@
 ✨ **Not just a developer** — I'm a **systems architect** who understands the entire AI/ML lifecycle  
 ✨ **Not just theory** — Every project has **measurable business impact**  
 ✨ **Not just code** — **Production-ready systems** with monitoring, optimization, and scalability  
-✨ **Not just technical** — Clear communication of complex AI concepts to business stakeholders  
+✨ **Not just technical** — Clear communication of complex AI concepts to business stakeholders
 
 </div>
 
@@ -382,7 +382,7 @@
 ✅ **Full-Time Roles** — ML Engineer, AI Systems Architect, Data Science Lead  
 ✅ **High-Impact Internships** — Production ML, Research, Agentic AI  
 ✅ **Research Collaborations** — Fairness in ML, Multi-Agent Systems, Model Optimization  
-✅ **Contract/Freelance** — ML systems architecture, optimization projects  
+✅ **Contract/Freelance** — ML systems architecture, optimization projects
 
 ---
 
