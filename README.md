@@ -25,14 +25,14 @@
 ## 🎯 EXECUTIVE SNAPSHOT
 
 ```
-┌────────────────────────────────────────────────────────────────�[...]
+┌────────────────────────────────────────────────────────────────┐
 │  ⚡ 40% Inference Latency Reduction  │  🏆 Patent Holder        │
-│  🔧 3 Internships | 4 Production ML Systems  │  📊 95% CV Accuracy      │
-│  🚀 End-to-End ML Pipeline Architecture  │  🧠 Multi-Agent AI        │
-└────────────────────────────────────────────────────────────────�[...]
+│  🔧 3 Internships | 4 Production ML Systems  │  📊 95% CV Accuracy  │
+│  🚀 End-to-End ML Pipeline Architecture  │  🧠 Multi-Agent AI    │
+└────────────────────────────────────────────────────────────────┘
 ```
 
-**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterp[...]
+**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade AI systems with measurable business impact.
 
 **What I Deliver:**
 - 🔬 **ML Systems that Scale** — From research to production
@@ -58,6 +58,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ### 📦 Data Engineering & Processing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -67,7 +68,7 @@
 ### 🛠️ DevOps & Production Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0099FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### 🎯 Specializations
 ![Model Quantization](https://img.shields.io/badge/Model%20Quantization-FF6B6B?style=flat-square)
@@ -236,7 +237,7 @@
 **Jun 2025 – Jul 2025** | *Computer Vision & Real-Time Object Detection*
 
 ```
-📍 Achievement: 95% Accuracy | Automated CV Workflows | Edge Deployment
+📍 Achievement: 95% Detection Accuracy | Automated CV Workflows | Edge Deployment
 ```
 
 - 🤖 Architected production-ready computer vision pipelines using YOLOv5 & Roboflow
@@ -270,9 +271,9 @@
 🎯 FOCUS: Macro-economic policy design using fairness-aware ML
 ```
 
-**Innovation:** Application of fairness algorithms to national budget allocation for maximum poverty reduction impact in India
+**Innovation:** Application of fairness algorithms to national budget allocation for maximum poverty reduction impact
 
-**Key Concept:** Algorithmic resource distribution analyzing socioeconomic indicators for optimized policy design
+**Key Concept:** Algorithmic resource distribution analyzing socioeconomic indicators for optimized policy design and equitable, poverty-reduction-oriented resource allocation
 
 ---
 
@@ -349,7 +350,7 @@
 
 | **MASTERY** | **DELIVERY** | **IMPACT** |
 |:---|:---|:---|
-| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accurac[...]
+| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accuracy |
 | Proven ability across multiple AI/ML domains | Cross-functional team collaboration | Enterprise-grade systems impacting millions |
 | Continuous learning & research-driven mindset | Autonomous problem-solver | Production systems at scale |
 
@@ -380,18 +381,18 @@
 ### 🤝 Open To
 
 ✅ **Full-Time Roles** — ML Engineer, AI Systems Architect, Data Science Lead  
-✅ **High-Impact Internships** — Production ML, Research, Agentic AI  
 ✅ **Research Collaborations** — Fairness in ML, Multi-Agent Systems, Model Optimization  
-✅ **Contract/Freelance** — ML systems architecture, optimization projects
+✅ **Contract/Freelance** — ML systems architecture, production optimization projects  
+✅ **High-Impact Internships** — Advanced ML, Research, Agentic AI Systems
 
 ---
 
 ### 🌟 **Personal Mantra**
 
 ```
-"Transforming raw data into actionable intelligence
- & building next-generation scalable AI systems
- that drive business value and innovation."
+"Turning research into deployed, reliable AI systems
+ that drive innovation and create measurable impact
+ at the intersection of theory and production."
 ```
 
 ---
