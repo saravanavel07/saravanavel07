@@ -1,6 +1,6 @@
 <div align="center">
 
-# SARAVANA VEL A — AI & ML Systems Architect
+# SARAVANA VEL A — AI & ML Systems Engineer
 
 > **Classical Intelligence Meets Cutting-Edge AI**
 >
