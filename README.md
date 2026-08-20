@@ -323,9 +323,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
 
-**Contribution Activity:**
+### 📆 GitHub Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanavel07&theme=dark-dimmed&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+> **Contribution Streak:** 🔥 **42 days** of consistent development and active contributions
+
+<img src="https://ghchart.rosehosting.com/saravanavel07" alt="GitHub Contribution Calendar" width="100%" />
 
 ---
 
