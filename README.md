@@ -327,6 +327,94 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/saravanavel07)
 
+### 📈 TOTAL CONTRIBUTION ANALYSIS
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                 OVERALL GITHUB STATISTICS (2024-2026)                ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  📦 TOTAL REPOSITORIES:      26 Projects                            ║
+║  ⭐ TOTAL STARGAZERS:         1 Star                                 ║
+║  🔥 CONTRIBUTION STREAK:      42 Days (Active Development)           ║
+║  📝 REPOSITORIES WITH COMMITS: 27                                    ║
+║                                                                       ║
+║  🎯 PROJECT BREAKDOWN:                                               ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ║
+║                                                                       ║
+║  🤖 AI & ML SYSTEMS (10 projects)                                   ║
+║     • Quantizer-AI-Pipeline                                          ║
+║     • Agentscope.agent                                               ║
+║     • Multi-Agent-Workflow-Studio                                    ║
+║     • SV-Sandbox-Analyzer                                            ║
+║     • Sales-Forecasting-Pipeline                                     ║
+║     • GAN-with-Hybrid-CNN                                            ║
+║     • MTL_QUANTIZATION                                               ║
+║     • Lightweight-weight-interface-pipeline                          ║
+║     • Log-Management-System                                          ║
+║     • AI_AGENT                                                       ║
+║                                                                       ║
+║  💼 FULL-STACK & BACKEND (7 projects)                               ║
+║     • Resume-Creator                                                 ║
+║     • Portfolio                                                      ║
+║     • Smart-Twin                                                     ║
+║     • Api-Areana                                                     ║
+║     • Skills-integrate-mcp-with-copilot                              ║
+║     • E-commerce-Project                                             ║
+║     • Talniox-Semantic-Assistance                                    ║
+║                                                                       ║
+║  📊 DATA SCIENCE & ANALYTICS (4 projects)                           ║
+║     • Sales-Forecasting-Pipeline                                     ║
+║     • GAN-based-CNN                                                  ║
+║     • Voter-system                                                   ║
+║     • Netflix-dashboard-project                                      ║
+║                                                                       ║
+║  🎨 VISUALIZATION & DASHBOARDS (3 projects)                         ║
+║     • Netflix-Dashboard                                              ║
+║     • Netflix-dashboard-project                                      ║
+║     • Portfolio                                                      ║
+║                                                                       ║
+║  🧪 RESEARCH & EXPERIMENTATION (2 projects)                         ║
+║     • SV-Sandbox-Analyzer                                            ║
+║     • Log-Management-System                                          ║
+║                                                                       ║
+║  📚 LEARNING & PRACTICE (3 projects)                                ║
+║     • Leetcode-solutions                                             ║
+║     • SARAVANA-VEL                                                   ║
+║     • My-project-4                                                   ║
+║                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                    TECHNOLOGY DISTRIBUTION                            ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  🟦 TypeScript/JavaScript:   9 projects (35%)                       ║
+║     Advanced full-stack development, reactive UIs, async patterns    ║
+║                                                                       ║
+║  🟩 Python:                   8 projects (31%)                       ║
+║     ML pipelines, data science, backend systems, automation          ║
+║                                                                       ║
+║  📘 Jupyter Notebooks:        4 projects (15%)                       ║
+║     Research, experimentation, academic work                         ║
+║                                                                       ║
+║  🟨 HTML/CSS:                 3 projects (12%)                       ║
+║     Frontend dashboards, web interfaces, visualization               ║
+║                                                                       ║
+║  🔶 Configuration/Other:      2 projects (8%)                        ║
+║     YAML, MDX, DevOps, containerization                              ║
+║                                                                       ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                     COMMITMENT & ACTIVITY                             ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  ✅ Average Repository Size:     Medium-to-Large (Production-ready)  ║
+║  ✅ Code Quality:                Enterprise-Grade with CI/CD         ║
+║  ✅ Documentation:               Comprehensive READMEs & Comments     ║
+║  ✅ Version Control:             Active branching & Git practices     ║
+║  ✅ Collaboration Readiness:     Public contributions & open code     ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
 ### 📆 GitHub Contribution Calendar
 
 > **Contribution Streak:** 🔥 **42 days** of consistent development and active contributions
@@ -354,31 +442,31 @@
 
 | # | 🏗️ Repository | 📝 Description | 🛠️ Primary Tech | 🔗 Link |
 |:---:|:---|:---|:---:|:---|
-| 1 | **Quantizer-AI-Pipeline** | Model optimization & inference acceleration | TypeScript | [View](https://github.com/saravanavel07/Quantizer-Ai-Pipeline) |
+| 1 | **Quantizer-AI-Pipeline** | Model optimization & inference acceleration | Python | [View](https://github.com/saravanavel07/Quantizer-Ai-Pipeline) |
 | 2 | **Agentscope.agent** | Multi-agent AI monitoring & visualization | TypeScript | [View](https://github.com/saravanavel07/Agentscope.agent) |
 | 3 | **Multi-Agent-Workflow-Studio** | Enterprise agent orchestration framework | TypeScript | [View](https://github.com/saravanavel07/Multi-Agent-Workflow-Studio) |
 | 4 | **SV-Sandbox-Analyzer** | Containerized ML experimentation platform | TypeScript | [View](https://github.com/saravanavel07/SV-Sandbox-Analyzer) |
-| 5 | **Sales-Forecasting-with-Linear-regression** | Time-series prediction pipeline | Python | [View](https://github.com/saravanavel07/Sales-Forecasting-with-Linear-regression) |
+| 5 | **Sales-Forecasting-Pipeline** | Time-series prediction with regression models | Python | [View](https://github.com/saravanavel07/Sales-Forecasting-with-Linear-regression) |
 | 6 | **Lightweight-weight-interface-pipleine** | Optimized ML interface layer | Python | [View](https://github.com/saravanavel07/Lightweight-weight-interface-pipleine) |
-| 7 | **Log-Managaemnet-System** | Production-grade logging system | Python | [View](https://github.com/saravanavel07/Log-Managaemnet-System) |
+| 7 | **Log-Management-System** | Production-grade logging system | Python | [View](https://github.com/saravanavel07/Log-Managaemnet-System) |
 | 8 | **GAN-with-Hybrid-CNN** | Hybrid deep learning architecture | Jupyter Notebook | [View](https://github.com/saravanavel07/GAN-with-Hybrid-CNN) |
 | 9 | **MTL_QUANTIZATION** | Multi-task learning quantization research | Jupyter Notebook | [View](https://github.com/saravanavel07/MTL_QUANTIZATION) |
 | 10 | **Smart-Twin** | Digital twin simulation system | TypeScript | [View](https://github.com/saravanavel07/Smart-Twin) |
 | 11 | **Talniox-Semantic-Assistence** | AI-powered semantic assistant | TypeScript | [View](https://github.com/saravanavel07/Talniox-Semantic-Assistence) |
 | 12 | **Resume-Creator** | Dynamic resume generation platform | TypeScript | [View](https://github.com/saravanavel07/Resume-Creator) |
-| 13 | **portfolio** | Professional portfolio showcase | TypeScript | [View](https://github.com/saravanavel07/portfolio) |
+| 13 | **Portfolio** | Professional portfolio showcase | TypeScript | [View](https://github.com/saravanavel07/portfolio) |
 | 14 | **Api-Areana** | REST API development sandbox | JavaScript | [View](https://github.com/saravanavel07/Api-Areana) |
 | 15 | **Skills-integrate-mcp-with-copilot** | MCP Copilot integration system | JavaScript | [View](https://github.com/saravanavel07/Skills-integrate-mcp-with-copilot) |
-| 16 | **E-commerce-Project** | Full-stack e-commerce solution | HTML | [View](https://github.com/saravanavel07/E-commerce-Project) |
-| 17 | **Netflix-Dashboard-** | Data visualization dashboard | HTML | [View](https://github.com/saravanavel07/Netflix-Dashboard-) |
-| 18 | **Agentscope** | Agent framework exploration | - | [View](https://github.com/saravanavel07/Agentscope) |
-| 19 | **AI_AGENT** | AI agent research project | - | [View](https://github.com/saravanavel07/AI_AGENT) |
-| 20 | **GAN-With-CNN-HYBRID16.ipynb** | Hybrid neural network notebook | Jupyter Notebook | [View](https://github.com/saravanavel07/GAN-With-CNN-HYBRID16.ipynb) |
-| 21 | **Voter-system** | Blockchain voting system | Jupyter Notebook | [View](https://github.com/saravanavel07/Voter-system) |
-| 22 | **Leetcode-solutions** | Algorithm & DSA problem solutions | - | [View](https://github.com/saravanavel07/Leetcode-solutions) |
-| 23 | **SARAVANA-VEL** | Personal project repository | - | [View](https://github.com/saravanavel07/SARAVANA-VEL) |
-| 24 | **Talonix-Semantic-Assistance** | Semantic processing research | - | [View](https://github.com/saravanavel07/Talonix-Semantic-Assistance) |
-| 25 | **Netflix-dashboard-project** | Advanced data analytics project | - | [View](https://github.com/saravanavel07/Netflix-dashboard-project) |
+| 16 | **E-commerce-Project** | Full-stack e-commerce solution | HTML/CSS | [View](https://github.com/saravanavel07/E-commerce-Project) |
+| 17 | **Netflix-Dashboard** | Data visualization dashboard | HTML/CSS | [View](https://github.com/saravanavel07/Netflix-Dashboard-) |
+| 18 | **Agentscope** | Agent framework exploration & research | Python | [View](https://github.com/saravanavel07/Agentscope) |
+| 19 | **AI_AGENT** | AI agent research project | Python | [View](https://github.com/saravanavel07/AI_AGENT) |
+| 20 | **GAN-With-CNN-HYBRID16** | Hybrid neural network notebook | Jupyter Notebook | [View](https://github.com/saravanavel07/GAN-With-CNN-HYBRID16.ipynb) |
+| 21 | **Voter-system** | Blockchain-based voting system | Jupyter Notebook | [View](https://github.com/saravanavel07/Voter-system) |
+| 22 | **Leetcode-solutions** | Algorithm & DSA problem solutions | Python | [View](https://github.com/saravanavel07/Leetcode-solutions) |
+| 23 | **SARAVANA-VEL** | Personal development repository | Python | [View](https://github.com/saravanavel07/SARAVANA-VEL) |
+| 24 | **Talonix-Semantic-Assistance** | Semantic processing research | TypeScript | [View](https://github.com/saravanavel07/Talonix-Semantic-Assistance) |
+| 25 | **Netflix-dashboard-project** | Advanced data analytics project | Python | [View](https://github.com/saravanavel07/Netflix-dashboard-project) |
 | 26 | **My-project-4** | Experimental development space | MDX | [View](https://github.com/saravanavel07/My-project-4) |
 
 ---
@@ -386,48 +474,56 @@
 ### 📊 Contribution Breakdown by Technology
 
 ```
-┌────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────���───────────┐
 │             TECHNOLOGY STACK DISTRIBUTION                       │
 ├────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  ⭐⭐⭐⭐⭐ TypeScript (8 major projects)                         │
+│  ⭐⭐⭐⭐⭐ TypeScript (9 major projects)                         │
 │  🔹 React 18, Node.js, Vite, Express, Frontend Architecture    │
+│  🔹 Advanced type safety, async patterns, reactive UIs          │
 │                                                                 │
-│  ⭐⭐⭐⭐  Python (4 core ML/DS projects)                        │
+│  ⭐⭐⭐⭐⭐ Python (8 core ML/DS/Backend projects)               │
 │  🔹 PyTorch, Scikit-learn, Pandas, TensorFlow, ML Systems      │
+│  🔹 Data pipelines, experimentation, backend development       │
 │                                                                 │
-│  ⭐⭐⭐  Jupyter Notebooks (3 research projects)                 │
-│  🔹 Deep Learning, GAN, MTL, Academic Research                │
+│  ⭐⭐⭐⭐  Jupyter Notebooks (4 research projects)               │
+│  🔹 Deep Learning, GAN, MTL, Statistical Analysis              │
+│  🔹 Interactive experimentation & documentation                │
 │                                                                 │
-│  ⭐⭐  Web Technologies (3 frontend projects)                    │
-│  🔹 HTML, JavaScript, API Development, Dashboard Design       │
+│  ⭐⭐⭐  Web Technologies (3 frontend projects)                  │
+│  🔹 HTML5, CSS3, Responsive Design, Dashboard UI               │
+│  🔹 Data visualization, interactive interfaces                 │
 │                                                                 │
-│  ⭐  DevOps & Infrastructure (Docker, Git, CI/CD)              │
-│  🔹 Containerization, Version Control, Automation             │
+│  ⭐⭐  DevOps & Infrastructure (2 projects)                     │
+│  🔹 Docker, YAML, CI/CD, Git Workflows                         │
+│  🔹 Containerization, automation, deployment                   │
 │                                                                 │
 └────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🎯 Project Category Breakdown
 
-**🤖 AI & Machine Learning (10 projects)**
+**🤖 AI & Machine Learning (10 projects) — 38%**
 - Quantizer-AI-Pipeline, Agentscope.agent, Multi-Agent-Workflow-Studio
 - Sales-Forecasting-Pipeline, GAN-with-Hybrid-CNN, MTL_QUANTIZATION
 - Lightweight-weight-interface-pipeline, Log-Management-System
 - AI_AGENT, Talniox-Semantic-Assistance
 
-**💼 Full-Stack & Backend (7 projects)**
+**💼 Full-Stack & Backend (7 projects) — 27%**
 - Resume-Creator, Portfolio, Smart-Twin, Api-Areana
-- Skills-integrate-mcp-with-copilot, E-commerce-Project, Netflix-Dashboard
+- Skills-integrate-mcp-with-copilot, E-commerce-Project, Talonix-Semantic-Assistance
 
-**📊 Data Science & Analytics (4 projects)**
+**📊 Data Science & Analytics (4 projects) — 15%**
 - Sales-Forecasting-Pipeline, GAN-based-CNN, Voter-system
 - Netflix-dashboard-project
 
-**🔧 DevOps & Infrastructure (2 projects)**
+**🎨 Visualization & Dashboards (3 projects) — 12%**
+- Netflix-Dashboard, E-commerce Dashboard, Portfolio
+
+**🧪 Research & Experimentation (2 projects) — 8%**
 - SV-Sandbox-Analyzer, Log-Management-System
 
-**🎓 Research & Learning (3 projects)**
+**📚 Learning & Practice (2 projects) — 8%**
 - Leetcode-solutions, SARAVANA-VEL, My-project-4
 
 </div>
