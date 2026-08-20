@@ -25,11 +25,11 @@
 ## 🎯 EXECUTIVE SNAPSHOT
 
 ```
-┌────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────┐
 │  ⚡ 40% Inference Latency Reduction  │  🏆 Patent Holder        │
 │  🔧 3 Internships | 4 Production ML Systems  │  📊 95% CV Accuracy  │
 │  🚀 End-to-End ML Pipeline Architecture  │  🧠 Multi-Agent AI    │
-└────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 **Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade solutions.
@@ -323,9 +323,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
 
-**Contribution Streak:**
+**Contribution Activity:**
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saravanavel07&theme=dark&background=0D1117" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravanavel07&theme=dark-dimmed&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
 
 ---
 
@@ -382,9 +382,9 @@
 ### 📊 Contribution Breakdown by Technology
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────┐
 │             TECHNOLOGY STACK DISTRIBUTION                       │
-├─────────────────────────────────────────────────────────────────┤
+├────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  ⭐⭐⭐⭐⭐ TypeScript (8 major projects)                         │
 │  🔹 React 18, Node.js, Vite, Express, Frontend Architecture    │
@@ -401,7 +401,7 @@
 │  ⭐  DevOps & Infrastructure (Docker, Git, CI/CD)              │
 │  🔹 Containerization, Version Control, Automation             │
 │                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ### 🎯 Project Category Breakdown
