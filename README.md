@@ -25,14 +25,14 @@
 ## 🎯 EXECUTIVE SNAPSHOT
 
 ```
-┌────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────┐
 │  ⚡ 40% Inference Latency Reduction  │  🏆 Patent Holder        │
 │  🔧 3 Internships | 4 Production ML Systems  │  📊 95% CV Accuracy  │
 │  🚀 End-to-End ML Pipeline Architecture  │  🧠 Multi-Agent AI    │
-└────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 ```
 
-**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade solutions.
+**Who I Am:** Machine Learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade solutions with measurable business impact.
 
 **What I Deliver:**
 - 🔬 **ML Systems that Scale** — From research to production
@@ -330,9 +330,9 @@
 ### 📈 TOTAL CONTRIBUTION ANALYSIS
 
 ```
-╔═══════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════╗
 ║                 OVERALL GITHUB STATISTICS (2024-2026)                ║
-╠═══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  📦 TOTAL REPOSITORIES:      26 Projects                            ║
 ║  ⭐ TOTAL STARGAZERS:         1 Star                                 ║
@@ -383,9 +383,9 @@
 ║     • SARAVANA-VEL                                                   ║
 ║     • My-project-4                                                   ║
 ║                                                                       ║
-╠═══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║                    TECHNOLOGY DISTRIBUTION                            ║
-╠═══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  🟦 TypeScript/JavaScript:   9 projects (35%)                       ║
 ║     Advanced full-stack development, reactive UIs, async patterns    ║
@@ -402,9 +402,9 @@
 ║  🔶 Configuration/Other:      2 projects (8%)                        ║
 ║     YAML, MDX, DevOps, containerization                              ║
 ║                                                                       ║
-╠═══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║                     COMMITMENT & ACTIVITY                             ║
-╠═══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════╣
 ║                                                                       ║
 ║  ✅ Average Repository Size:     Medium-to-Large (Production-ready)  ║
 ║  ✅ Code Quality:                Enterprise-Grade with CI/CD         ║
@@ -412,7 +412,7 @@
 ║  ✅ Version Control:             Active branching & Git practices     ║
 ║  ✅ Collaboration Readiness:     Public contributions & open code     ║
 ║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 📆 GitHub Contribution Calendar
@@ -474,7 +474,7 @@
 ### 📊 Contribution Breakdown by Technology
 
 ```
-┌────────────────────────────────────────────────────���───────────┐
+┌────────────────────────────────────────────────────────────────┐
 │             TECHNOLOGY STACK DISTRIBUTION                       │
 ├────────────────────────────────────────────────────────────────┤
 │                                                                 │
