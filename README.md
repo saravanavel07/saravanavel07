@@ -27,7 +27,7 @@
 **⚡ 40% Inference Latency Reduction** | **🏆 Patent Holder** | **📊 95% CV Accuracy**  
 **🔧 3 Internships | 4 Production ML Systems** | **🧠 Multi-Agent AI Architect**
 
-**Who I Am:** Machine learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterprise-grade ML systems from research to production.
+**Who I Am:** Machine learning architect specializing in **production systems optimization**, **agentic AI orchestration**, and **inference acceleration**. Proven track record of delivering enterp[...]
 
 **What I Deliver:**
 - 🔬 **ML Systems that Scale** — From research to production
@@ -211,22 +211,6 @@
 
 ---
 
-## 🎓 PROFESSIONAL CREDENTIALS & CERTIFICATIONS
-
-| 🏅 Certification | 🏢 Institution | 📅 Year |
-|:---|:---|:---|
-| AWS Skill Builder Certification | Amazon Web Services | 2025 |
-| Microsoft Skill Build Certification | Microsoft | 2025 |
-| Google Data Analytics Professional | Google | 2024-2025 |
-| IBM Business Analyst Certification | IBM | 2024 |
-| Cisco Cybersecurity Certification | Cisco | 2024 |
-| MongoDB Developer Certification | GeeksforGeeks | 2024 |
-| Infosys Springboard Program | Infosys | 2024 |
-| CompTIA Security+ Certification | CompTIA | 2024 |
-| IIT Madras AI & Robotics Workshops | IIT Madras Research Park | 2023-2024 |
-
----
-
 ## 📊 TECHNOLOGY DISTRIBUTION
 
 <div align="center">
@@ -234,8 +218,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=saravanavel07&show_icons=true&theme=dark&rank_icon=github&card_width=500" alt="GitHub Stats" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5" alt="Top Languages" width="100%" />
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/saravanavel07)
 
 </div>
 
@@ -262,7 +244,7 @@
 
 | **MASTERY** | **DELIVERY** | **IMPACT** |
 |:---|:---|:---|
-| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accuracy |
+| Deep expertise in ML systems architecture, from research to production | End-to-end project ownership with consistent delivery | Measurable business outcomes: 40% latency reduction, 95% accurac[...] |
 | Proven ability across multiple AI/ML domains | Cross-functional team collaboration | Enterprise-grade systems impacting millions |
 | Continuous learning & research-driven mindset | Autonomous problem-solver | Production systems at scale |
 
