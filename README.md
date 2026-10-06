@@ -1,288 +1,216 @@
+# SARAVANA VEL // LIVE TECH CORE
+
 <div align="center">
-  <img src="assets/sv-logo.svg" width="120" alt="SARAVANA VEL SV royal logo" />
+  <img src="assets/sv-logo.svg" width="120" alt="SARAVANA VEL monogram" />
 </div>
 
-<h1 align="center" style="margin: 0; font-size: 2.8rem; letter-spacing: 0.12em; color: #f4d27a;">SARAVANA VEL</h1>
+<h1 align="center" style="margin: 0; font-size: 2.8rem; letter-spacing: 0.16em; color: #f6d98f;">SARAVANA VEL</h1>
 
-<p align="center" style="font-size: 1.2rem; font-weight: 700; color: #dfeaff; margin-top: 10px; margin-bottom: 0;">
-  <strong>Aspiring Data Analyst • AI Enthusiast • Python Developer</strong>
+<p align="center" style="font-size: 1.15rem; font-weight: 700; color: #dfeafe; margin-top: 10px; margin-bottom: 0;">
+  ASPIRING DATA ANALYST • AI ENTHUSIAST • PYTHON DEVELOPER
 </p>
 
-<p align="center" style="font-size: 1rem; color: #8cc9ff; margin-top: 6px; margin-bottom: 18px;">
-  <strong>Data • AI • Analytics • Technology</strong>
-</p>
-
-<p align="center" style="font-style: italic; color: #dfeaff; margin-top: 0; margin-bottom: 18px;">
-  Building practical solutions where data, programming, and artificial intelligence meet.
+<p align="center" style="font-size: 0.98rem; color: #8fc7ff; margin-top: 8px; margin-bottom: 18px;">
+  DATA • AI • PYTHON • ANALYTICS • PROJECTS
 </p>
 
 <p align="center">
   <a href="https://github.com/saravanavel07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=F4D27A" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-saravanavel07-0A1021?style=for-the-badge&logo=github&logoColor=F4D27A" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/saravana-vel-ba4937280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=8EC5FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A1021?style=for-the-badge&logo=linkedin&logoColor=7CC3FF" alt="LinkedIn profile" />
   </a>
   <a href="#project-command-center">
-    <img src="https://img.shields.io/badge/Projects-View-0B1020?style=for-the-badge&logo=gitbook&logoColor=F4D27A" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-View-0A1021?style=for-the-badge&logo=gitbook&logoColor=F4D27A" alt="Project command center" />
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="SARAVANA VEL AI and data network hero visual" />
+  <img src="assets/hero-core.svg" width="100%" alt="SARAVANA VEL live tech hero" />
 </p>
-
----
-
-## ROYAL TECH COMMAND CENTER
-
-### ABOUT ME
-
-I’m developing my skills in Data Analytics, Python, SQL, Excel, Power BI, Java, AI, Prompt Engineering, APIs, and the fundamentals of Data Science. My goal is to grow into a strong data and technology professional while building practical projects that improve both technical understanding and problem-solving ability.
-
-I’m actively learning, experimenting, and improving. My work is centered on combining analytical thinking with coding, data workflows, and AI-driven tools to create useful, grounded solutions.
-
----
-
-## ADVANCED TECH STACK
-
-<div align="center">
-  <img src="assets/skill-network.svg" width="100%" alt="SARAVANA VEL skill network constellation" />
-</div>
-
-### PROGRAMMING
-- Python — <strong>CORE</strong>
-- Java — <strong>LEARNING</strong>
-- SQL — <strong>CORE</strong>
-
-### DATA
-- Excel — <strong>CORE</strong>
-- Power BI — <strong>INTERMEDIATE</strong>
-- Data Analysis — <strong>CORE</strong>
-- Data Visualization — <strong>INTERMEDIATE</strong>
-
-### AI
-- Artificial Intelligence — <strong>LEARNING</strong>
-- Prompt Engineering — <strong>INTERMEDIATE</strong>
-- AI Tools — <strong>LEARNING</strong>
-- Data Science — <strong>LEARNING</strong>
-
-### DEVELOPMENT
-- Git — <strong>INTERMEDIATE</strong>
-- GitHub — <strong>CORE</strong>
-- APIs — <strong>INTERMEDIATE</strong>
-- Jupyter — <strong>LEARNING</strong>
-- Google Colab — <strong>LEARNING</strong>
-
-### CURRENT EXPLORATION
-- DSA — <strong>EXPLORING</strong>
-- Cloud — <strong>EXPLORING</strong>
-- DevOps — <strong>EXPLORING</strong>
-- Docker — <strong>EXPLORING</strong>
-- CI/CD — <strong>EXPLORING</strong>
-- Grafana — <strong>EXPLORING</strong>
-
----
-
-## DATA → INSIGHT
 
 <p align="center">
-  <img src="assets/data-pipeline.svg" width="100%" alt="Data flow pipeline from raw data to insight" />
+  <img src="assets/royal-particles.svg" width="100%" alt="Royal particle system" />
 </p>
 
+---
+
+## VEL // LIVE TECH CORE
+
+I am building a practical foundation in data analysis, Python, SQL, AI, and technology-driven problem solving. This profile reflects my current journey: learning continuously, building projects, analyzing patterns, and exploring how data and AI can create meaningful outcomes.
+
+- Aspiring Data Analyst
+- AI Enthusiast
+- Python Developer
+- Learning SQL, Power BI, APIs, and AI workflows
+- Developing project-based technical exploration
+
+---
+
+## ABOUT SARAVANA VEL
+
+I’m growing my skills in:
+
+- Python — Intermediate
+- Excel — Intermediate
+- Data Analysis — Intermediate
+- SQL — Beginner
+- Java — Basics
+- Power BI
+- APIs
+- AI
+- Prompt Engineering
+- Data Science fundamentals
+- Git / GitHub
+
+My focus is to build strong foundations in analytics, decision support, automation, and AI-assisted development while staying honest about where I am in the learning curve.
+
+---
+
+## TECH STACK
+
+<div align="center">
+  <img src="assets/skill-matrix.svg" width="100%" alt="SARAVANA VEL skill matrix" />
+</div>
+
+### Core
+- Python
+- Excel
+- Data Analysis
+
+### Developing
+- SQL
+- Power BI
+- DSA
+
+### Exploring
+- AI
+- Prompt Engineering
+- APIs
+- Docker
+- CI/CD
+- Grafana
+
+---
+
+## DATA ANALYTICS ENGINE
+
+<div align="center">
+  <img src="assets/analytics-engine.svg" width="100%" alt="Data analytics engine" />
+</div>
+
 ```text
-RAW DATA
+DATA INPUT
    ↓
-DATA CLEANING
+CLEAN
    ↓
-EXPLORATION
+ANALYZE
    ↓
-ANALYSIS
+VISUALIZE
    ↓
-VISUALIZATION
-   ↓
-INSIGHTS
-   ↓
-DECISION
+INSIGHT
 ```
 
 ---
 
 ## PROJECT COMMAND CENTER
 
-<p align="center">
-  <img src="assets/project-network.svg" width="100%" alt="Project network diagram for SARAVANA VEL" />
-</p>
+<div align="center">
+  <img src="assets/project-network.svg" width="100%" alt="Project network" />
+</div>
 
-### API HUB
-- PROJECT: API HUB
-- CATEGORY: API / Developer Tools / Integration
-- TECHNOLOGY: Python, APIs, Integration
-- STATUS: BUILDING
-- GITHUB: TBD
+### Active ecosystem
+- API Hub
+- Quantizer AI
+- APTI DUDE
+- Cracker AI
+- Harness Prompt Creator
 
-### QUANTIZER AI
-- PROJECT: QUANTIZER AI
-- CATEGORY: AI / Data Science / Agentic Systems
-- TECHNOLOGY: AI, Data Science, Automation
-- STATUS: CONCEPTUAL
-- GITHUB: TBD
-
-### APTI DUDE
-- PROJECT: APTI DUDE
-- CATEGORY: Education / AI / Assessment
-- TECHNOLOGY: Python, Logic, Analytics, Learning Systems
-- STATUS: IN DEVELOPMENT
-- GITHUB: TBD
-
-### CRACKER AI
-- PROJECT: CRACKER AI
-- CATEGORY: AI / Data Science / Open Source
-- TECHNOLOGY: Python, AI, Plugins, Data Science
-- STATUS: EXPLORING
-- GITHUB: TBD
-
-### HARNESS PROMPT CREATOR
-- PROJECT: HARNESS PROMPT CREATOR
-- CATEGORY: Python / Prompt Engineering / AI
-- TECHNOLOGY: Python, Prompt Engineering, Iteration Workflow
-- STATUS: BUILDING
-- GITHUB: TBD
+### Project focus
+- API integrations and developer workflows
+- AI experimentation and data-driven ideas
+- Structured learning and project execution
+- Prompt engineering and practical tools
 
 ---
 
-## CODE • SOLVE • IMPROVE
+## CODING JOURNEY
 
-### LeetCode
-- Username: `saravana_6`
-- Profile: https://leetcode.com/saravana_6/
+<div align="center">
+  <img src="assets/code-engine.svg" width="100%" alt="Coding activity visual" />
+</div>
 
-### HackerRank
-- Learning and practicing problem solving through platform-based challenges.
-- Focus: logic, coding patterns, DSA fundamentals, and consistency.
+### Problem solving and learning
+- LeetCode: https://leetcode.com/saravana_6/
+- GitHub: https://github.com/saravanavel07
 
-### CodeChef
-- Part of the broader problem-solving and DSA learning journey.
-- Focus: improving discipline and practical coding confidence.
+```text
+> solving_problem()
+> analyzing_data()
+> building_project()
+> improving_skills()
+> learning_ai()
+> system_status: ACTIVE
+```
+
+---
+
+## CAREER RADAR
+
+<div align="center">
+  <img src="assets/career-radar.svg" width="100%" alt="Career radar" />
+</div>
+
+```text
+DATA ANALYST
+BUSINESS INTELLIGENCE
+AI
+PYTHON
+SQL
+DATA SCIENCE
+```
+
+---
+
+## LEARNING
+
+<div align="center">
+  <img src="assets/system-status.svg" width="100%" alt="System status panel" />
+</div>
+
+```text
+CURRENT DIRECTION
+- Aspiring Data Analyst
+- AI focused learning
+- Python and data workflow practice
+- Project-based skill building
+```
+
+---
+
+## CERTIFICATIONS
+
+- IBM — Data & AI learning path
+- Microsoft — Technical learning path
+- AWS — Cloud learning exploration
+- Kaggle — Data science practice
+- Course-based analytics learning
+- Self-directed AI and prompt engineering practice
+
+These are part of a real learning journey and are represented as ongoing professional growth.
 
 ---
 
 ## GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saravanavel07&show_icons=true&theme=tokyonight&hide_border=true&title_color=F4D27A&icon_color=7EC5FF&text_color=DDE9FF&bg_color=0B1020" alt="GitHub profile statistics for SARAVANA VEL" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saravanavel07&show_icons=true&theme=tokyonight&hide_border=true&title_color=F4D27A&icon_color=7EC5FF&text_color=DDE9FF&bg_color=0B1020" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=tokyonight&hide_border=true&title_color=F4D27A&text_color=DDE9FF&bg_color=0B1020" alt="Top languages for SARAVANA VEL" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=tokyonight&hide_border=true&title_color=F4D27A&text_color=DDE9FF&bg_color=0B1020" alt="Top languages" />
 </div>
-
-> GitHub contribution and profile statistics are shown when third-party renderers are available. If a service is unavailable, the profile remains readable and the repository activity on GitHub remains the authoritative source.
-
----
-
-## CURRENTLY LEARNING
-
-```text
-PYTHON
-████████████████   BUILDING
-
-SQL
-██████████        PRACTICING
-
-DATA ANALYTICS
-████████████████   IMPROVING
-
-POWER BI
-████████████      BUILDING
-
-DSA
-██████████        PRACTICING
-
-AI / PROMPT ENGINEERING
-████████████       EXPLORING
-```
-
-These are conceptual indicators, not fake percentage claims.
-
----
-
-## CERTIFICATION & LEARNING WALL
-
-### IBM
-- CERTIFICATION: Data & AI learning path
-- ORGANIZATION: IBM
-- DATE: Ongoing
-- VERIFY: TBD
-
-### Microsoft
-- CERTIFICATION: Learning path / technical training
-- ORGANIZATION: Microsoft
-- DATE: Ongoing
-- VERIFY: TBD
-
-### AWS
-- CERTIFICATION: Cloud / AWS learning
-- ORGANIZATION: AWS
-- DATE: Ongoing
-- VERIFY: TBD
-
-### Kaggle
-- CERTIFICATION: Data science / learning practice
-- ORGANIZATION: Kaggle
-- DATE: Ongoing
-- VERIFY: TBD
-
-### Data Analytics Courses
-- CERTIFICATION: Applied analytics training
-- ORGANIZATION: Course-based learning
-- DATE: Ongoing
-- VERIFY: TBD
-
-### AI Learning
-- CERTIFICATION: AI foundations / prompt engineering practice
-- ORGANIZATION: Self-directed learning
-- DATE: Ongoing
-- VERIFY: TBD
-
----
-
-## CAREER RADAR
-
-<p align="center">
-  <img src="assets/career-radar.svg" width="100%" alt="Career radar for SARAVANA VEL path into data analytics and AI" />
-</p>
-
-```text
-DATA ANALYST
-      │
-      ├── DATA ANALYTICS
-      ├── BUSINESS INTELLIGENCE
-      ├── PYTHON
-      ├── SQL
-      ├── POWER BI
-      └── AI
-```
-
----
-
-## MY BUILD PHILOSOPHY
-
-```text
-LEARN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-IMPROVE
-  ↓
-SHIP
-  ↓
-REPEAT
-```
-
-This reflects a real, practical approach to learning, building, and improving technical capability.
 
 ---
 
@@ -294,16 +222,19 @@ This reflects a real, practical approach to learning, building, and improving te
 
 ---
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Royal footer data stream for SARAVANA VEL" />
-</p>
+<div align="center">
+  <img src="assets/footer-core.svg" width="100%" alt="Live footer core" />
+</div>
 
 <p align="center" style="font-size: 1.1rem; font-weight: 700; letter-spacing: 0.18em; color: #f4d27a;">
-  BUILD • LEARN • ANALYZE • CREATE • REPEAT
+  BUILD • LEARN • ANALYZE • CREATE • IMPROVE • REPEAT
 </p>
 
-<h3 align="center" style="color: #dfeaff; margin-top: 6px;">SARAVANA VEL</h3>
+<h3 align="center" style="color: #dfeaff; margin-top: 8px; margin-bottom: 40px; letter-spacing: 0.18em;">SARAVANA VEL</h3>
+
+<p align="center" style="color: #8fc7ff;">DATA • AI • TECHNOLOGY</p>
 
 ---
 
-> Building a strong foundation in data, programming, and AI — one project, one skill, and one step at a time.
+> This profile is a living, GitHub-compatible visual identity representing my current journey in data, AI, and technology. It is designed to reflect growth, learning, and focused technical exploration.
+

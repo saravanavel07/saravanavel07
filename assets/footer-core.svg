@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Footer signal flow for Build Learn Analyze Create Improve Repeat">
+  <defs>
+    <linearGradient id="flowFooter" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8ec5ff" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#f4d27a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#8ec5ff" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" fill="#07131f"/>
+
+  <g stroke="url(#flowFooter)" stroke-width="2.2" fill="none" opacity="0.95">
+    <path d="M240 115 H430 L520 115 H700 L790 115 H980"/>
+    <path d="M240 190 H430 L520 190 H700 L790 190 H980"/>
+    <path d="M240 265 H430 L520 265 H700 L790 265 H980"/>
+    <path d="M240 340 H430 L520 340 H700 L790 340 H980"/>
+    <path d="M240 415 H430 L520 415 H700 L790 415 H980"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#dfeaff" text-anchor="middle">
+    <text x="160" y="120" fill="#f4d27a">BUILD</text>
+    <text x="160" y="195" fill="#f4d27a">LEARN</text>
+    <text x="160" y="270" fill="#f4d27a">ANALYZE</text>
+    <text x="160" y="345" fill="#f4d27a">CREATE</text>
+    <text x="160" y="420" fill="#f4d27a">IMPROVE</text>
+    <text x="1030" y="120" fill="#f4d27a">REPEAT</text>
+  </g>
+
+  <g>
+    <circle r="5" fill="#f4d27a">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M240 115 H430 L520 115 H700 L790 115 H980 M240 190 H430 L520 190 H700 L790 190 H980 M240 265 H430 L520 265 H700 L790 265 H980 M240 340 H430 L520 340 H700 L790 340 H980 M240 415 H430 L520 415 H700 L790 415 H980"/>
+    </circle>
+  </g>
+
+  <text x="600" y="485" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" text-anchor="middle" letter-spacing="8" fill="#f4d27a">SARAVANA VEL</text>
+  <text x="600" y="510" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="6" fill="#8ec5ff">DATA • AI • TECHNOLOGY</text>
+</svg>

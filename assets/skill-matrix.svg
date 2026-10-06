@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Skill matrix status dashboard">
+  <defs>
+    <linearGradient id="skillBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1830"/>
+      <stop offset="100%" stop-color="#081321"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#skillBg)"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#dfeaff">
+    <rect x="90" y="70" width="300" height="240" rx="18" fill="#0d1d2d" stroke="#f3d788" stroke-width="1.2"/>
+    <text x="120" y="110" font-size="18" font-weight="800" fill="#f3d788">CORE</text>
+    <circle cx="255" cy="105" r="6" fill="#f3d788"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="120" y="155" font-size="20" font-weight="700">Python</text>
+    <text x="120" y="190" font-size="20" font-weight="700">Excel</text>
+    <text x="120" y="225" font-size="20" font-weight="700">Data Analysis</text>
+    <text x="120" y="260" font-size="18" font-weight="700" fill="#f3d788">ACTIVE</text>
+
+    <rect x="450" y="70" width="300" height="240" rx="18" fill="#0d1d2d" stroke="#7cc1ff" stroke-width="1.2"/>
+    <text x="480" y="110" font-size="18" font-weight="800" fill="#8ec5ff">DEVELOPING</text>
+    <circle cx="585" cy="105" r="6" fill="#8ec5ff"><animate attributeName="r" values="6;9;6" dur="2.7s" repeatCount="indefinite"/></circle>
+    <text x="480" y="155" font-size="20" font-weight="700">SQL</text>
+    <text x="480" y="190" font-size="20" font-weight="700">Power BI</text>
+    <text x="480" y="225" font-size="20" font-weight="700">DSA</text>
+    <text x="480" y="260" font-size="18" font-weight="700" fill="#8ec5ff">BUILDING</text>
+
+    <rect x="810" y="70" width="300" height="240" rx="18" fill="#0d1d2d" stroke="#b7c7ff" stroke-width="1.2"/>
+    <text x="840" y="110" font-size="18" font-weight="800" fill="#c8d8ff">EXPLORING</text>
+    <circle cx="975" cy="105" r="6" fill="#c8d8ff"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <text x="840" y="155" font-size="20" font-weight="700">AI</text>
+    <text x="840" y="190" font-size="20" font-weight="700">Prompt Engineering</text>
+    <text x="840" y="225" font-size="20" font-weight="700">APIs</text>
+    <text x="840" y="260" font-size="18" font-weight="700" fill="#c8d8ff">SCANNING</text>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#dfeaff" font-size="16" font-weight="700">
+    <text x="90" y="350">CORE</text>
+    <text x="450" y="350">DEVELOPING</text>
+    <text x="810" y="350">EXPLORING</text>
+  </g>
+</svg>

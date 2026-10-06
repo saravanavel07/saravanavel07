@@ -1,27 +1,13 @@
-<svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SV royal technology monogram">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="SARAVANA VEL monogram logo">
   <defs>
-    <linearGradient id="svBG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#060d1c"/>
-      <stop offset="100%" stop-color="#0c1833"/>
-    </linearGradient>
-    <linearGradient id="svGold" x1="0" x2="1">
+    <linearGradient id="svGrad" x1="0" x2="1">
       <stop offset="0%" stop-color="#f4d27a"/>
-      <stop offset="100%" stop-color="#d4a858"/>
+      <stop offset="50%" stop-color="#d7ad42"/>
+      <stop offset="100%" stop-color="#8ec5ff"/>
     </linearGradient>
-    <radialGradient id="svBlueGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7ecbff" stop-opacity="0.62"/>
-      <stop offset="100%" stop-color="#7ecbff" stop-opacity="0"/>
-    </radialGradient>
   </defs>
-
-  <rect width="260" height="260" rx="22" fill="url(#svBG)"/>
-  <circle cx="130" cy="130" r="88" fill="url(#svBlueGlow)"/>
-  <path d="M70 187 L70 72 L130 72 L130 108 L103 108 L103 151 L130 151 L130 187 Z" fill="none" stroke="url(#svGold)" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M158 72 L158 187 L192 187 L192 72 Z" fill="none" stroke="url(#svGold)" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M158 130 L192 130" stroke="url(#svGold)" stroke-width="6" stroke-linecap="round"/>
-  <circle cx="130" cy="130" r="8" fill="#f4d27a">
-    <animate attributeName="r" values="7;10;7" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <path d="M53 74 L108 74" stroke="#f4d27a" stroke-width="2" opacity="0.6"/>
-  <path d="M152 188 L208 188" stroke="#f4d27a" stroke-width="2" opacity="0.6"/>
+  <rect width="240" height="240" rx="32" fill="#091724"/>
+  <circle cx="120" cy="120" r="86" fill="none" stroke="url(#svGrad)" stroke-width="2" opacity="0.8"/>
+  <circle cx="120" cy="120" r="62" fill="none" stroke="#8ec5ff" stroke-width="1.2" opacity="0.7"/>
+  <text x="120" y="146" text-anchor="middle" font-size="72" font-weight="900" font-family="Segoe UI, Arial, sans-serif" fill="url(#svGrad)" letter-spacing="1">SV</text>
 </svg>

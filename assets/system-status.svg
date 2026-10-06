@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 280" role="img" aria-label="VEL tech core system status panel">
+  <defs>
+    <linearGradient id="panelBg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0a1220"/>
+      <stop offset="100%" stop-color="#0d1b2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="820" height="280" fill="url(#panelBg)"/>
+  <rect x="60" y="32" width="700" height="220" rx="18" fill="#0d1e2d" stroke="#f4d27a" stroke-width="1.5"/>
+  <text x="100" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" fill="#f4d27a">VEL TECH CORE</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#dfeaff">
+    <text x="100" y="120">DATA ENGINE</text>
+    <text x="570" y="120" fill="#63d98a">● ACTIVE</text>
+    <text x="100" y="155">AI SYSTEM</text>
+    <text x="570" y="155" fill="#f4d27a">● BUILDING</text>
+    <text x="100" y="190">PYTHON</text>
+    <text x="570" y="190" fill="#63d98a">● ACTIVE</text>
+    <text x="100" y="225">SQL</text>
+    <text x="570" y="225" fill="#8ec5ff">◉ LEARNING</text>
+  </g>
+
+  <g>
+    <circle cx="548" cy="116" r="6" fill="#63d98a"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="548" cy="151" r="6" fill="#f4d27a"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="548" cy="186" r="6" fill="#63d98a"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="548" cy="221" r="6" fill="#8ec5ff"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="100" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#8ec5ff">SYSTEM STATUS: ONLINE</text>
+</svg>

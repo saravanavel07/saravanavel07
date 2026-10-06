@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" role="img" aria-label="AI and data neural network">
+  <defs>
+    <linearGradient id="neuralLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7db3ff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#f3d788" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="nodeGold" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f9e7a5"/>
+      <stop offset="100%" stop-color="#f3d788" stop-opacity="0.2"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="540" fill="#07111d"/>
+
+  <g stroke="url(#neuralLine)" stroke-width="1.4" fill="none" opacity="0.8">
+    <path d="M220 160 L420 160 L520 260 L640 260 L780 160 L980 160"/>
+    <path d="M420 160 L420 290 L260 370"/>
+    <path d="M420 160 L420 290 L600 370"/>
+    <path d="M780 160 L780 290 L980 370"/>
+    <path d="M520 260 L640 260 L600 370"/>
+    <path d="M520 260 L420 290"/>
+  </g>
+
+  <g>
+    <circle cx="220" cy="160" r="18" fill="#7fc3ff" opacity="0.85"><animate attributeName="r" values="18;22;18" dur="3s" repeatCount="indefinite"/></circle>
+    <text x="220" y="130" font-size="18" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PYTHON</text>
+
+    <circle cx="420" cy="160" r="18" fill="#8ec5ff" opacity="0.9"><animate attributeName="r" values="18;23;18" dur="3.3s" repeatCount="indefinite"/></circle>
+    <text x="420" y="130" font-size="18" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">DATA</text>
+
+    <circle cx="520" cy="260" r="17" fill="#7ec5ff" opacity="0.8"><animate attributeName="r" values="17;21;17" dur="3.7s" repeatCount="indefinite"/></circle>
+    <text x="520" y="230" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">SQL</text>
+
+    <circle cx="640" cy="260" r="18" fill="#8ec5ff" opacity="0.8"><animate attributeName="r" values="18;22;18" dur="3.2s" repeatCount="indefinite"/></circle>
+    <text x="640" y="230" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">POWER BI</text>
+
+    <circle cx="780" cy="160" r="18" fill="#f3d788" opacity="0.9"><animate attributeName="r" values="18;24;18" dur="3.5s" repeatCount="indefinite"/></circle>
+    <text x="780" y="130" font-size="18" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI</text>
+
+    <circle cx="980" cy="160" r="18" fill="#f3d788" opacity="0.9"><animate attributeName="r" values="18;24;18" dur="3.5s" repeatCount="indefinite"/></circle>
+    <text x="980" y="130" font-size="18" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PROJECTS</text>
+
+    <circle cx="420" cy="290" r="17" fill="#f3d788" opacity="0.9"><animate attributeName="r" values="17;23;17" dur="3.8s" repeatCount="indefinite"/></circle>
+    <text x="420" y="355" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">ANALYTICS</text>
+
+    <circle cx="260" cy="370" r="16" fill="#7fc3ff" opacity="0.8"><animate attributeName="r" values="16;20;16" dur="3.4s" repeatCount="indefinite"/></circle>
+    <text x="260" y="410" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PYTHON</text>
+
+    <circle cx="600" cy="370" r="16" fill="#7fc3ff" opacity="0.8"><animate attributeName="r" values="16;21;16" dur="3.1s" repeatCount="indefinite"/></circle>
+    <text x="600" y="410" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">AI</text>
+
+    <circle cx="980" cy="370" r="16" fill="#f3d788" opacity="0.8"><animate attributeName="r" values="16;22;16" dur="3.7s" repeatCount="indefinite"/></circle>
+    <text x="980" y="410" font-size="17" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">INSIGHT</text>
+  </g>
+
+  <g>
+    <path d="M220 160 C300 100, 360 90, 420 160" stroke="#f3d788" stroke-width="2" fill="none" opacity="0.7">
+      <animate attributeName="stroke-opacity" values="0.25;1;0.25" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <circle r="4" fill="#f3d788">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M220 160 C300 100, 360 90, 420 160"/>
+    </circle>
+  </g>
+
+  <g>
+    <path d="M780 160 C830 110, 915 110, 980 160" stroke="#f3d788" stroke-width="2" fill="none" opacity="0.75">
+      <animate attributeName="stroke-opacity" values="0.25;1;0.25" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <circle r="4" fill="#f3d788">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M780 160 C830 110, 915 110, 980 160"/>
+    </circle>
+  </g>
+</svg>

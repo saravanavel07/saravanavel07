@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Live data stream pipeline">
+  <defs>
+    <linearGradient id="streamBlue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#78b7ff" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#8cc9ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#a4d4ff" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="streamGold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f6d98f" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#f6d98f" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#d9ad3a" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1200" height="230" fill="#071321"/>
+
+  <g stroke="url(#streamBlue)" stroke-width="3" fill="none" opacity="0.9" filter="url(#glow)">
+    <path d="M30 115 H200 L270 115 H430 L500 115 H650 L720 115 H900 L980 115 H1170"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#dfeaff" text-anchor="middle">
+    <text x="90" y="80" fill="#f3d788">DATA</text>
+    <text x="235" y="80" fill="#8ec5ff">PYTHON</text>
+    <text x="470" y="80" fill="#8ec5ff">SQL</text>
+    <text x="690" y="80" fill="#f3d788">ANALYTICS</text>
+    <text x="935" y="80" fill="#8ec5ff">AI</text>
+    <text x="1090" y="80" fill="#f3d788">INSIGHT</text>
+  </g>
+
+  <g fill="#8ec5ff">
+    <circle cx="90" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="235" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="935" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" begin="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="115" r="8"><animate attributeName="fill" values="#8ec5ff;#f3d788;#8ec5ff" dur="5s" begin="4.0s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <path d="M30 115 H200 L270 115 H430 L500 115 H650 L720 115 H900 L980 115 H1170" stroke="url(#streamGold)" stroke-width="2.1" fill="none" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.2;0.9;0.2" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#f3d788">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M30 115 H200 L270 115 H430 L500 115 H650 L720 115 H900 L980 115 H1170"/>
+    </circle>
+  </g>
+
+  <g stroke="#7cc1ff" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M40 155 L200 155"/>
+    <path d="M260 155 L430 155"/>
+    <path d="M520 155 L650 155"/>
+    <path d="M740 155 L900 155"/>
+    <path d="M1000 155 L1160 155"/>
+  </g>
+</svg>

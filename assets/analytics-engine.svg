@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="Analytics engine dashboard">
+  <defs>
+    <linearGradient id="dashBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0a1220"/>
+      <stop offset="100%" stop-color="#0d1a2e"/>
+    </linearGradient>
+    <linearGradient id="graphLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#77b4ff"/>
+      <stop offset="100%" stop-color="#f4d27a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="440" fill="url(#dashBg)"/>
+
+  <g fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <text x="130" y="110">DATA INPUT</text>
+    <text x="310" y="110">CLEAN</text>
+    <text x="470" y="110">ANALYZE</text>
+    <text x="660" y="110">VISUALIZE</text>
+    <text x="860" y="110">INSIGHT</text>
+  </g>
+
+  <g stroke="#8ec5ff" stroke-width="1.2" opacity="0.65" fill="none">
+    <path d="M120 156 H1020"/>
+    <path d="M120 200 H1020"/>
+    <path d="M120 244 H1020"/>
+  </g>
+
+  <g>
+    <path d="M120 290 C220 260, 300 220, 370 240 S 480 290, 560 230 S 700 150, 790 180 S 935 225, 1040 170" fill="none" stroke="url(#graphLine)" stroke-width="3" stroke-linecap="round">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite" values="M120 290 C220 260, 300 220, 370 240 S 480 290, 560 230 S 700 150, 790 180 S 935 225, 1040 170; M120 260 C220 220, 300 300, 370 220 S 500 170, 560 208 S 700 270, 790 200 S 930 150, 1040 190; M120 290 C220 260, 300 220, 370 240 S 480 290, 560 230 S 700 150, 790 180 S 935 225, 1040 170"/>
+    </path>
+    <circle cx="370" cy="240" r="5" fill="#f4d27a"><animate attributeName="r" values="5;8;5" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="230" r="5" fill="#f4d27a"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="180" r="5" fill="#f4d27a"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="170" r="5" fill="#f4d27a"><animate attributeName="r" values="5;8;5" dur="2.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g>
+    <rect x="150" y="300" width="28" height="42" fill="#7cc1ff" opacity="0.8"><animate attributeName="height" values="42;58;42" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="220" y="318" width="28" height="24" fill="#7cc1ff" opacity="0.7"><animate attributeName="height" values="24;44;24" dur="4s" begin="0.7s" repeatCount="indefinite"/></rect>
+    <rect x="290" y="282" width="28" height="60" fill="#7cc1ff" opacity="0.8"><animate attributeName="height" values="60;80;60" dur="4s" begin="1.4s" repeatCount="indefinite"/></rect>
+    <rect x="360" y="255" width="28" height="87" fill="#f3d788" opacity="0.8"><animate attributeName="height" values="87;100;87" dur="4s" begin="2.1s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <g>
+    <circle r="4" fill="#8ec5ff">
+      <animateMotion dur="3.8s" repeatCount="indefinite" path="M120 290 C220 260, 300 220, 370 240 S 480 290, 560 230 S 700 150, 790 180 S 935 225, 1040 170"/>
+    </circle>
+    <circle r="4" fill="#f3d788">
+      <animateMotion dur="4.2s" repeatCount="indefinite" path="M170 150 C260 135, 360 150, 450 125 S 650 150, 870 130 S 960 115, 1025 135"/>
+    </circle>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#dfeaff">
+    <text x="120" y="170">DATA INPUT</text>
+    <text x="300" y="170">CLEAN</text>
+    <text x="470" y="170">ANALYZE</text>
+    <text x="660" y="170">VISUALIZE</text>
+    <text x="860" y="170">INSIGHT</text>
+  </g>
+</svg>

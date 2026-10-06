@@ -1,61 +1,69 @@
-<svg width="1400" height="700" viewBox="0 0 1400 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project network for SARAVANA VEL and core projects">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-label="Project network for SARAVANA VEL">
   <defs>
-    <linearGradient id="projBlue" x1="0" x2="1">
-      <stop offset="0%" stop-color="#78d5ff"/>
-      <stop offset="100%" stop-color="#4e6fff"/>
+    <linearGradient id="projLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#79b5ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#f4d27a" stop-opacity="0.9"/>
     </linearGradient>
-    <linearGradient id="projGold" x1="0" x2="1">
-      <stop offset="0%" stop-color="#f5d98d"/>
-      <stop offset="100%" stop-color="#d7ab4d"/>
-    </linearGradient>
-    <filter id="projGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <radialGradient id="coreHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd978"/>
+      <stop offset="100%" stop-color="#ffd978" stop-opacity="0.1"/>
+    </radialGradient>
   </defs>
+  <rect width="1200" height="520" fill="#081322"/>
 
-  <rect width="1400" height="700" fill="#0a0f1c"/>
-  <g stroke="url(#projBlue)" stroke-width="1.6" fill="none" opacity="0.74">
-    <path d="M700 350 L500 180"/>
-    <path d="M700 350 L380 420"/>
-    <path d="M700 350 L1020 180"/>
-    <path d="M700 350 L1110 500"/>
-    <path d="M700 350 L480 520"/>
-    <path d="M700 350 L980 420"/>
-  </g>
-
-  <g filter="url(#projGlow)">
-    <circle cx="700" cy="350" r="22" fill="#0a0f1c" stroke="url(#projGold)" stroke-width="2.2"/>
-    <circle cx="500" cy="180" r="18" fill="#0a0f1c" stroke="#6ec2ff" stroke-width="2"/>
-    <circle cx="380" cy="420" r="19" fill="#0a0f1c" stroke="#79d5ff" stroke-width="2"/>
-    <circle cx="1020" cy="180" r="18" fill="#0a0f1c" stroke="#6ec2ff" stroke-width="2"/>
-    <circle cx="1110" cy="500" r="19" fill="#0a0f1c" stroke="#f4d27a" stroke-width="2"/>
-    <circle cx="480" cy="520" r="18" fill="#0a0f1c" stroke="#79d5ff" stroke-width="2"/>
-    <circle cx="980" cy="420" r="19" fill="#0a0f1c" stroke="#f4d27a" stroke-width="2"/>
-  </g>
-
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#eef7ff">
-    <text x="650" y="310">SARAVANA VEL</text>
-    <text x="430" y="150">QUANTIZER AI</text>
-    <text x="300" y="455">CRACKER AI</text>
-    <text x="980" y="150">API HUB</text>
-    <text x="1065" y="545">APTI DUDE</text>
-    <text x="378" y="560">HARNESS PROMPT CREATOR</text>
-    <text x="930" y="445">AI SYSTEMS</text>
+  <g stroke="url(#projLine)" stroke-width="1.8" fill="none" opacity="0.9">
+    <path d="M260 205 L520 260 L790 205"/>
+    <path d="M260 205 L520 260 L520 395"/>
+    <path d="M790 205 L520 260 L920 395"/>
+    <path d="M520 395 L520 260 L520 145"/>
+    <path d="M520 395 L610 450"/>
   </g>
 
   <g>
-    <circle cx="110" cy="120" r="3.5" fill="#f4d27a">
-      <animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C 90 10, 160 80, 270 60 S 470 20, 520 80"/>
+    <circle cx="260" cy="205" r="16" fill="#7fc3ff" opacity="0.9"><animate attributeName="r" values="16;20;16" dur="3.5s" repeatCount="indefinite"/></circle>
+    <text x="260" y="170" font-size="14" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">CRACKER AI</text>
+
+    <circle cx="790" cy="205" r="16" fill="#7fc3ff" opacity="0.9"><animate attributeName="r" values="16;20;16" dur="3.4s" repeatCount="indefinite"/></circle>
+    <text x="790" y="170" font-size="14" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">API HUB</text>
+
+    <circle cx="520" cy="260" r="34" fill="url(#coreHalo)" opacity="0.9"><animate attributeName="r" values="30;38;30" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="260" r="18" fill="#f4d27a" opacity="0.95"><animate attributeName="r" values="18;23;18" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="520" y="228" font-size="16" text-anchor="middle" fill="#0a1220" font-family="Segoe UI, Arial, sans-serif" font-weight="800">VEL CORE</text>
+
+    <circle cx="520" cy="395" r="16" fill="#7fc3ff" opacity="0.9"><animate attributeName="r" values="16;20;16" dur="3.7s" repeatCount="indefinite"/></circle>
+    <text x="520" y="435" font-size="14" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">APTI DUDE</text>
+
+    <circle cx="920" cy="395" r="16" fill="#7fc3ff" opacity="0.9"><animate attributeName="r" values="16;20;16" dur="3.3s" repeatCount="indefinite"/></circle>
+    <text x="920" y="430" font-size="14" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">HARNESS PROMPT CREATOR</text>
+
+    <circle cx="520" cy="145" r="16" fill="#7fc3ff" opacity="0.9"><animate attributeName="r" values="16;20;16" dur="3.2s" repeatCount="indefinite"/></circle>
+    <text x="520" y="115" font-size="14" text-anchor="middle" fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-weight="700">QUANTIZER AI</text>
+  </g>
+
+  <g>
+    <path d="M260 205 C350 240, 430 250, 520 260" stroke="#f3d788" stroke-width="2.4" fill="none" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#f3d788">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M260 205 C350 240, 430 250, 520 260"/>
     </circle>
-    <circle cx="100" cy="560" r="3.5" fill="#78d5ff">
-      <animateMotion dur="8s" repeatCount="indefinite" path="M0 0 C 130 -30, 220 60, 320 20 S 520 50, 610 150"/>
+  </g>
+
+  <g>
+    <path d="M520 260 C620 290, 700 235, 790 205" stroke="#f3d788" stroke-width="2.4" fill="none" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="6.5s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#f3d788">
+      <animateMotion dur="6.5s" repeatCount="indefinite" path="M520 260 C620 290, 700 235, 790 205"/>
     </circle>
-    <circle cx="1060" cy="140" r="3.5" fill="#f4d27a">
-      <animateMotion dur="8.5s" repeatCount="indefinite" path="M0 0 C -100 30, -180 50, -260 30 S -490 10, -600 80"/>
+  </g>
+
+  <g>
+    <path d="M520 260 C540 310, 520 350, 520 395" stroke="#f3d788" stroke-width="2.2" fill="none" opacity="0.8">
+      <animate attributeName="stroke-opacity" values="0.2;1;0.2" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <circle r="5" fill="#f3d788">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M520 260 C540 310, 520 350, 520 395"/>
     </circle>
   </g>
 </svg>
