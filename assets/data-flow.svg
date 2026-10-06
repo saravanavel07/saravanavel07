@@ -1,0 +1,53 @@
+<svg width="1000" height="620" viewBox="0 0 1000 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dataFlowBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1020"/>
+      <stop offset="100%" stop-color="#121D2F"/>
+    </linearGradient>
+    <linearGradient id="flowLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5EE7FF"/>
+      <stop offset="50%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#F8D66D"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="620" rx="28" fill="url(#dataFlowBg)"/>
+  <g opacity="0.9">
+    <path d="M500 20V590" stroke="url(#flowLine)" stroke-width="2" stroke-dasharray="7 12"/>
+    <circle cx="500" cy="60" r="6" fill="#F8D66D">
+      <animate attributeName="cy" values="60;80;60" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="160" r="5" fill="#5EE7FF">
+      <animate attributeName="cy" values="160;180;160" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="260" r="5" fill="#F8D66D">
+      <animate attributeName="cy" values="260;280;260" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="360" r="5" fill="#5EE7FF">
+      <animate attributeName="cy" values="360;380;360" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="460" r="5" fill="#F8D66D">
+      <animate attributeName="cy" values="460;480;460" dur="4.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g>
+    <rect x="310" y="30" width="380" height="70" rx="18" fill="#101B2E" stroke="#5EE7FF" stroke-opacity="0.6"/>
+    <text x="500" y="72" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#E5E7EB">Raw Data</text>
+
+    <rect x="310" y="130" width="380" height="70" rx="18" fill="#101B2E" stroke="#5EE7FF" stroke-opacity="0.6"/>
+    <text x="500" y="172" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#E5E7EB">Cleaning</text>
+
+    <rect x="310" y="230" width="380" height="70" rx="18" fill="#101B2E" stroke="#5EE7FF" stroke-opacity="0.6"/>
+    <text x="500" y="272" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#E5E7EB">Exploration</text>
+
+    <rect x="310" y="330" width="380" height="70" rx="18" fill="#101B2E" stroke="#5EE7FF" stroke-opacity="0.6"/>
+    <text x="500" y="372" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#E5E7EB">Analysis</text>
+
+    <rect x="310" y="430" width="380" height="70" rx="18" fill="#101B2E" stroke="#5EE7FF" stroke-opacity="0.6"/>
+    <text x="500" y="472" text-anchor="middle" font-size="26" font-family="Arial, sans-serif" fill="#E5E7EB">Visualization</text>
+
+    <rect x="310" y="530" width="380" height="60" rx="18" fill="#101B2E" stroke="#F8D66D" stroke-opacity="0.6"/>
+    <text x="500" y="568" text-anchor="middle" font-size="24" font-family="Arial, sans-serif" fill="#E5E7EB">Insights → Decision</text>
+  </g>
+</svg>

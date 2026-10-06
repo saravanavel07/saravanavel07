@@ -1,0 +1,92 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgHero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B18"/>
+      <stop offset="50%" stop-color="#0B1733"/>
+      <stop offset="100%" stop-color="#131B2E"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5EE7FF"/>
+      <stop offset="50%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#F8D66D"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 188) rotate(90) scale(160)">
+      <stop offset="0%" stop-color="#71D6FF"/>
+      <stop offset="35%" stop-color="#3A78FF"/>
+      <stop offset="70%" stop-color="#2A225C"/>
+      <stop offset="100%" stop-color="#0B1020"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bgHero)"/>
+
+  <g opacity="0.8">
+    <circle cx="120" cy="100" r="2" fill="#F8D66D">
+      <animate attributeName="cy" values="100;80;100" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="240" cy="150" r="2" fill="#5EE7FF">
+      <animate attributeName="cy" values="150;120;150" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="340" cy="90" r="2" fill="#7C5CFF">
+      <animate attributeName="cy" values="90;110;90" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1060" cy="160" r="2.2" fill="#F8D66D">
+      <animate attributeName="cy" values="160;120;160" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1160" cy="110" r="2" fill="#5EE7FF">
+      <animate attributeName="cy" values="110;140;110" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M120 100C220 120 260 130 350 110C430 90 500 110 560 140C650 180 760 210 860 200C940 192 1020 155 1100 120"
+          stroke="url(#lineGlow)" stroke-width="1.4" fill="none" stroke-dasharray="1 12">
+      <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <path d="M180 280C270 220 350 220 430 250C520 285 620 290 700 240C820 170 900 170 1000 220"
+          stroke="url(#lineGlow)" stroke-width="1.3" fill="none" stroke-dasharray="2 9">
+      <animate attributeName="stroke-dashoffset" from="0" to="-120" dur="20s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="860" cy="200" r="118" fill="url(#core)"/>
+    <circle cx="860" cy="200" r="138" stroke="#5EE7FF" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+      <animate attributeName="r" values="138;152;138" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="200" r="90" stroke="#F8D66D" stroke-opacity="0.38" stroke-width="1.3" fill="none">
+      <animate attributeName="transform" type="rotate" from="0 860 200" to="360 860 200" dur="22s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="860" cy="200" r="10" fill="#F8D66D">
+      <animate attributeName="r" values="10;13;10" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.75">
+    <circle cx="260" cy="250" r="4" fill="#7C5CFF"/>
+    <circle cx="440" cy="160" r="4" fill="#5EE7FF"/>
+    <circle cx="620" cy="220" r="4" fill="#F8D66D"/>
+    <circle cx="1080" cy="190" r="4" fill="#5EE7FF"/>
+    <circle cx="1000" cy="310" r="4" fill="#7C5CFF"/>
+  </g>
+
+  <g opacity="0.55">
+    <path d="M260 250L440 160L620 220L860 200L1080 190L1000 310" stroke="#5EE7FF" stroke-width="1.2" fill="none"/>
+    <circle cx="260" cy="250" r="5" fill="#F8D66D">
+      <animate attributeName="cy" values="250;235;250" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="440" cy="160" r="5" fill="#5EE7FF">
+      <animate attributeName="cy" values="160;145;160" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="220" r="5" fill="#F8D66D">
+      <animate attributeName="cy" values="220;245;220" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.6">
+    <path d="M330 50L370 50" stroke="#5EE7FF" stroke-width="1.5"/>
+    <path d="M350 30L350 70" stroke="#F8D66D" stroke-width="1.5"/>
+    <path d="M980 60L1020 60" stroke="#5EE7FF" stroke-width="1.5"/>
+    <path d="M1000 40L1000 80" stroke="#F8D66D" stroke-width="1.5"/>
+  </g>
+</svg>
