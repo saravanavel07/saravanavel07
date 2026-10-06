@@ -1,0 +1,88 @@
+<svg width="1400" height="700" viewBox="0 0 1400 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Data particles and AI network motion">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070d1a"/>
+      <stop offset="50%" stop-color="#0d1630"/>
+      <stop offset="100%" stop-color="#0c1020"/>
+    </linearGradient>
+    <linearGradient id="netblue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#74d5ff"/>
+      <stop offset="100%" stop-color="#4d6fff"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f7dc8a"/>
+      <stop offset="100%" stop-color="#d8a94a"/>
+    </linearGradient>
+    <filter id="glowParticle" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="700" fill="url(#bg3)"/>
+  <g opacity="0.28">
+    <circle cx="90" cy="90" r="2" fill="#8ad0ff"/>
+    <circle cx="250" cy="180" r="1.6" fill="#f2d785"/>
+    <circle cx="520" cy="110" r="2.2" fill="#7cc3ff"/>
+    <circle cx="760" cy="210" r="1.9" fill="#c99c3f"/>
+    <circle cx="1010" cy="150" r="1.8" fill="#9cd8ff"/>
+    <circle cx="1220" cy="120" r="2.3" fill="#86d2ff"/>
+    <circle cx="1300" cy="260" r="1.7" fill="#f4d27a"/>
+    <circle cx="200" cy="620" r="2.1" fill="#d8b663"/>
+    <circle cx="500" cy="600" r="1.7" fill="#75cbff"/>
+    <circle cx="870" cy="650" r="2" fill="#d9be73"/>
+    <circle cx="1190" cy="610" r="2.4" fill="#7cc6ff"/>
+  </g>
+
+  <g stroke="url(#netblue)" stroke-width="0.8" opacity="0.4">
+    <path d="M120 220 L210 160 L340 210 L450 150 L560 220 L700 180 L820 250 L950 200 L1090 260 L1250 170"/>
+    <path d="M180 420 L330 350 L470 420 L650 330 L760 430 L980 370 L1160 460"/>
+    <path d="M220 120 L320 300 L450 250 L600 350 L740 220 L850 340 L1030 280 L1190 220"/>
+  </g>
+
+  <g opacity="0.8">
+    <circle cx="200" cy="160" r="5" fill="#5cd0ff"/>
+    <circle cx="350" cy="210" r="4" fill="#f4d27a"/>
+    <circle cx="520" cy="220" r="5" fill="#5cd0ff"/>
+    <circle cx="700" cy="180" r="6" fill="#f0c768"/>
+    <circle cx="900" cy="250" r="5" fill="#5cd0ff"/>
+    <circle cx="1120" cy="260" r="6" fill="#f0c768"/>
+    <circle cx="320" cy="350" r="5" fill="#5cd0ff"/>
+    <circle cx="650" cy="330" r="4" fill="#f3c95d"/>
+    <circle cx="980" cy="370" r="5" fill="#5cd0ff"/>
+    <circle cx="1160" cy="460" r="6" fill="#f3c95d"/>
+  </g>
+
+  <g filter="url(#glowParticle)">
+    <circle cx="110" cy="150" r="3" fill="#5cd0ff">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M0 0 C 80 40, 150 -30, 250 40 S 430 100, 520 20 S 760 30, 820 80 S 1040 200, 1120 110"/>
+    </circle>
+    <circle cx="110" cy="150" r="3" fill="#f4d27a">
+      <animateMotion dur="10s" repeatCount="indefinite" path="M0 0 C 120 20, 180 90, 350 70 S 640 150, 760 70 S 1080 40, 1220 120"/>
+    </circle>
+    <circle cx="120" cy="600" r="3" fill="#5cd0ff">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M0 0 C 100 -30, 220 40, 360 -20 S 700 0, 820 70 S 1150 100, 1280 0"/>
+    </circle>
+    <circle cx="980" cy="130" r="4" fill="#f4d27a">
+      <animateMotion dur="11s" repeatCount="indefinite" path="M0 0 C -80 40, -180 110, -260 90 S -520 40, -610 110 S -880 200, -980 100"/>
+    </circle>
+  </g>
+
+  <g>
+    <circle cx="700" cy="350" r="24" fill="#0b1324" stroke="url(#gold)" stroke-width="2"/>
+    <circle cx="700" cy="350" r="14" fill="#f4d27a">
+      <animate attributeName="r" values="10;15;10" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="350" r="40" fill="none" stroke="#79d0ff" stroke-width="1.1" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g stroke="url(#gold)" stroke-width="1.4" opacity="0.8">
+    <path d="M200 520 C 380 450, 540 520, 700 440 S 1060 360, 1210 455"/>
+    <path d="M180 540 C 360 610, 480 530, 660 570 S 915 610, 1260 530"/>
+  </g>
+</svg>

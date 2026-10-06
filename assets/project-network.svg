@@ -1,0 +1,61 @@
+<svg width="1400" height="700" viewBox="0 0 1400 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project network for SARAVANA VEL and core projects">
+  <defs>
+    <linearGradient id="projBlue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#78d5ff"/>
+      <stop offset="100%" stop-color="#4e6fff"/>
+    </linearGradient>
+    <linearGradient id="projGold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f5d98d"/>
+      <stop offset="100%" stop-color="#d7ab4d"/>
+    </linearGradient>
+    <filter id="projGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="700" fill="#0a0f1c"/>
+  <g stroke="url(#projBlue)" stroke-width="1.6" fill="none" opacity="0.74">
+    <path d="M700 350 L500 180"/>
+    <path d="M700 350 L380 420"/>
+    <path d="M700 350 L1020 180"/>
+    <path d="M700 350 L1110 500"/>
+    <path d="M700 350 L480 520"/>
+    <path d="M700 350 L980 420"/>
+  </g>
+
+  <g filter="url(#projGlow)">
+    <circle cx="700" cy="350" r="22" fill="#0a0f1c" stroke="url(#projGold)" stroke-width="2.2"/>
+    <circle cx="500" cy="180" r="18" fill="#0a0f1c" stroke="#6ec2ff" stroke-width="2"/>
+    <circle cx="380" cy="420" r="19" fill="#0a0f1c" stroke="#79d5ff" stroke-width="2"/>
+    <circle cx="1020" cy="180" r="18" fill="#0a0f1c" stroke="#6ec2ff" stroke-width="2"/>
+    <circle cx="1110" cy="500" r="19" fill="#0a0f1c" stroke="#f4d27a" stroke-width="2"/>
+    <circle cx="480" cy="520" r="18" fill="#0a0f1c" stroke="#79d5ff" stroke-width="2"/>
+    <circle cx="980" cy="420" r="19" fill="#0a0f1c" stroke="#f4d27a" stroke-width="2"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#eef7ff">
+    <text x="650" y="310">SARAVANA VEL</text>
+    <text x="430" y="150">QUANTIZER AI</text>
+    <text x="300" y="455">CRACKER AI</text>
+    <text x="980" y="150">API HUB</text>
+    <text x="1065" y="545">APTI DUDE</text>
+    <text x="378" y="560">HARNESS PROMPT CREATOR</text>
+    <text x="930" y="445">AI SYSTEMS</text>
+  </g>
+
+  <g>
+    <circle cx="110" cy="120" r="3.5" fill="#f4d27a">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C 90 10, 160 80, 270 60 S 470 20, 520 80"/>
+    </circle>
+    <circle cx="100" cy="560" r="3.5" fill="#78d5ff">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M0 0 C 130 -30, 220 60, 320 20 S 520 50, 610 150"/>
+    </circle>
+    <circle cx="1060" cy="140" r="3.5" fill="#f4d27a">
+      <animateMotion dur="8.5s" repeatCount="indefinite" path="M0 0 C -100 30, -180 50, -260 30 S -490 10, -600 80"/>
+    </circle>
+  </g>
+</svg>

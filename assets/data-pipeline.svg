@@ -1,0 +1,98 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flowing data pipeline from raw data to insight">
+  <defs>
+    <linearGradient id="pipeBg" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#080f1d"/>
+      <stop offset="100%" stop-color="#0d1833"/>
+    </linearGradient>
+    <linearGradient id="pipeFlow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8ad4ff"/>
+      <stop offset="42%" stop-color="#5da9ff"/>
+      <stop offset="70%" stop-color="#f3cf73"/>
+      <stop offset="100%" stop-color="#d9a857"/>
+    </linearGradient>
+    <filter id="pipeGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#pipeBg)"/>
+  <g opacity="0.28">
+    <circle cx="80" cy="80" r="2" fill="#8ad4ff"/>
+    <circle cx="560" cy="70" r="2" fill="#f5d98d"/>
+    <circle cx="1080" cy="120" r="2.2" fill="#8ad4ff"/>
+  </g>
+
+  <g stroke="url(#pipeFlow)" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.7">
+    <path d="M50 210 H150"/>
+    <path d="M160 210 H290"/>
+    <path d="M300 210 H440"/>
+    <path d="M450 210 H600"/>
+    <path d="M610 210 H760"/>
+    <path d="M770 210 H930"/>
+    <path d="M940 210 H1070"/>
+    <path d="M1080 210 H1150"/>
+  </g>
+
+  <g fill="#dfeaff" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
+    <text x="55" y="165">RAW DATA</text>
+    <text x="230" y="165">CLEANING</text>
+    <text x="350" y="165">EXPLORATION</text>
+    <text x="505" y="165">ANALYSIS</text>
+    <text x="642" y="165">VISUALIZATION</text>
+    <text x="800" y="165">INSIGHTS</text>
+    <text x="1030" y="165">DECISION</text>
+  </g>
+
+  <g fill="#0d1833" stroke="#5cc5ff" stroke-width="2">
+    <rect x="40" y="180" width="110" height="60" rx="8"/>
+    <rect x="150" y="180" width="140" height="60" rx="8"/>
+    <rect x="300" y="180" width="150" height="60" rx="8"/>
+    <rect x="450" y="180" width="150" height="60" rx="8"/>
+    <rect x="600" y="180" width="170" height="60" rx="8"/>
+    <rect x="770" y="180" width="170" height="60" rx="8"/>
+    <rect x="940" y="180" width="150" height="60" rx="8"/>
+  </g>
+
+  <g fill="#f4d27a">
+    <circle cx="120" cy="210" r="5">
+      <animateMotion dur="4.5s" repeatCount="indefinite" path="M 0 0 L 170 0"/>
+    </circle>
+    <circle cx="260" cy="210" r="5">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M 0 0 L 120 0"/>
+    </circle>
+    <circle cx="450" cy="210" r="5">
+      <animateMotion dur="5.2s" repeatCount="indefinite" path="M 0 0 L 150 0"/>
+    </circle>
+    <circle cx="780" cy="210" r="5">
+      <animateMotion dur="5.3s" repeatCount="indefinite" path="M 0 0 L 140 0"/>
+    </circle>
+    <circle cx="1000" cy="210" r="5">
+      <animateMotion dur="5.7s" repeatCount="indefinite" path="M 0 0 L 120 0"/>
+    </circle>
+  </g>
+
+  <g fill="#7ec7ff">
+    <circle cx="70" cy="210" r="4">
+      <animateMotion dur="4.2s" repeatCount="indefinite" path="M 0 0 L 190 0"/>
+    </circle>
+    <circle cx="330" cy="210" r="4">
+      <animateMotion dur="4.6s" repeatCount="indefinite" path="M 0 0 L 150 0"/>
+    </circle>
+    <circle cx="560" cy="210" r="4">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M 0 0 L 180 0"/>
+    </circle>
+    <circle cx="820" cy="210" r="4">
+      <animateMotion dur="5.1s" repeatCount="indefinite" path="M 0 0 L 190 0"/>
+    </circle>
+  </g>
+
+  <g stroke="#f4d27a" stroke-width="1.5" opacity="0.7" fill="none">
+    <path d="M940 210 L1060 210">
+      <animate attributeName="stroke-opacity" values="0.25;0.9;0.25" dur="3.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
