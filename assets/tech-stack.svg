@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+      .tech-box { animation: pulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="400" fill="#050608"/>
+
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid2" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#101C38" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="400" fill="url(#grid2)" opacity="0.2"/>
+
+  <!-- Title -->
+  <text x="500" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#D8B76A" letter-spacing="2">
+    TECHNICAL STACK ARCHITECTURE
+  </text>
+
+  <!-- Category 1: Data Analytics -->
+  <g>
+    <rect x="50" y="70" width="200" height="150" rx="8" fill="none" stroke="#45B8FF" stroke-width="2" opacity="0.7"/>
+    <text x="150" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#45B8FF">DATA ANALYTICS</text>
+    <text x="60" y="120" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Python (Intermediate)</text>
+    <text x="60" y="138" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Excel (Intermediate)</text>
+    <text x="60" y="156" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Data Cleaning & EDA</text>
+    <text x="60" y="174" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Visualization & Reporting</text>
+    <text x="60" y="192" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Statistical Analysis</text>
+  </g>
+
+  <!-- Category 2: Programming -->
+  <g>
+    <rect x="400" y="70" width="200" height="150" rx="8" fill="none" stroke="#625BFF" stroke-width="2" opacity="0.7"/>
+    <text x="500" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#625BFF">PROGRAMMING</text>
+    <text x="410" y="120" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Python Fundamentals</text>
+    <text x="410" y="138" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• SQL Basics (Beginner)</text>
+    <text x="410" y="156" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Java Basics</text>
+    <text x="410" y="174" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Problem Solving & DSA</text>
+    <text x="410" y="192" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Algorithmic Thinking</text>
+  </g>
+
+  <!-- Category 3: Business Intelligence -->
+  <g>
+    <rect x="750" y="70" width="200" height="150" rx="8" fill="none" stroke="#9568FF" stroke-width="2" opacity="0.7"/>
+    <text x="850" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#9568FF">BUSINESS INTELLIGENCE</text>
+    <text x="760" y="120" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Power BI (Learning)</text>
+    <text x="760" y="138" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Dashboard Creation</text>
+    <text x="760" y="156" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• KPI Tracking</text>
+    <text x="760" y="174" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Insight Communication</text>
+    <text x="760" y="192" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Data Storytelling</text>
+  </g>
+
+  <!-- Category 4: AI & Data Science -->
+  <g>
+    <rect x="50" y="250" width="200" height="130" rx="8" fill="none" stroke="#45B8FF" stroke-width="2" opacity="0.7"/>
+    <text x="150" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#45B8FF">AI & DATA SCIENCE</text>
+    <text x="60" y="300" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• AI Fundamentals</text>
+    <text x="60" y="318" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Prompt Engineering</text>
+    <text x="60" y="336" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• API Integration</text>
+    <text x="60" y="354" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• ML Concepts</text>
+  </g>
+
+  <!-- Category 5: Developer Workflow -->
+  <g>
+    <rect x="400" y="250" width="200" height="130" rx="8" fill="none" stroke="#625BFF" stroke-width="2" opacity="0.7"/>
+    <text x="500" y="275" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#625BFF">DEVELOPER WORKFLOW</text>
+    <text x="410" y="300" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Git & GitHub</text>
+    <text x="410" y="318" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Documentation</text>
+    <text x="410" y="336" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Project Organization</text>
+    <text x="410" y="354" font-family="Arial, sans-serif" font-size="10" fill="#E8EDF7">• Code Quality</text>
+  </g>
+
+  <!-- Central connection -->
+  <circle cx="500" cy="340" r="3" fill="#D8B76A" opacity="0.8"/>
+
+  <!-- Decorative accent -->
+  <line x1="150" y1="360" x2="850" y2="360" stroke="#101C38" stroke-width="1" opacity="0.4"/>
+</svg>
