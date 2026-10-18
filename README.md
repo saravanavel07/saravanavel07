@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm <b>Saravana Vel</b>, a developer with a strong interest in data analysis, Python, AI-driven systems, and practical software solutions. I enjoy working at the intersection of data, automation, and intelligent systems to build products that solve real-world problems.
+I'm **Saravana Vel**, a developer with a strong interest in data analysis, Python, AI-driven systems, and practical software solutions. I enjoy working at the intersection of data, automation, and product execution.
 
 I am focused on:
 - 📊 Data Analytics — Python, SQL, dashboards, insights
@@ -72,7 +72,6 @@ Tools:         Git | GitHub | Jupyter | VS Code | Linux
 - [MTL_QUANTIZATION](https://github.com/saravanavel07/MTL_QUANTIZATION) — Multi-task learning and quantization
 
 ### Web & UI Projects
-- [Portfolio](https://github.com/saravanavel07/portfolio) — Personal portfolio website
 - [Resume-Creator](https://github.com/saravanavel07/Resume-Creator) — Resume building app
 - [APTIDUDE](https://github.com/saravanavel07/APTIDUDE) — Aptitude assessment platform
 
