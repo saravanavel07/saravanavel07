@@ -113,4 +113,5 @@ I build practical, reliable software with a strong focus on backend systems, dat
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&fontSize=35&animation=twinkling" alt="Footer Banner" />
-</p>
+</p> 
+.
