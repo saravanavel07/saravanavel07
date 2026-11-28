@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&center=true&vCenter=true&width=760&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Saravana+Vel;Software+Engineer;Building+with+Data+%26+AI" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=900&color=FF5F6D&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Saravana+Vel;AI+Engineer;Building+with+Data+%26+AI;Creating+Impactful+Systems" alt="Animated introduction: AI Engineer building with Data and AI" />
 </div>
 
 <h1 align="center">🚀 saravanavel07</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Engineer-FF5F6D?style=for-the-badge" alt="Software Engineer" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-00C2FF?style=for-the-badge" alt="Data and AI" />
-  <img src="https://img.shields.io/badge/Build-Impactful%20Systems-8A2BE2?style=for-the-badge" alt="Impactful systems" />
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer-FF5F6D?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-00C2FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Data and AI" />
+  <img src="https://img.shields.io/badge/Build-Impactful%20Systems-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Impactful systems" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saravanavel07&label=PROFILE+VIEWS&color=ff5f6d&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/saravanavel07?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=saravanavel07&label=PROFILE%20VIEWS&color=ff5f6d&style=for-the-badge" alt="Live profile view counter" />
+  <img src="https://img.shields.io/github/followers/saravanavel07?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Live GitHub follower count" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I build practical, reliable software with a strong focus on backend systems, dat
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,postgres,nodejs,express,nextjs,docker,kubernetes,aws,terraform,githubactions,git&perline=7" alt="Large, full-color technology logos: Python, TypeScript, JavaScript, Java, PostgreSQL, Node.js, Express, Next.js, Docker, Kubernetes, AWS, Terraform, GitHub Actions, and Git" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,postgres,nodejs,express,nextjs,docker,kubernetes,aws,terraform,githubactions,git&perline=7" alt="Large, colorful technology logos for Python, TypeScript, JavaScript, Java, PostgreSQL, Node.js, Express, Next.js, Docker, Kubernetes, AWS, Terraform, GitHub Actions, and Git" />
 </p>
 
 <p align="center">
@@ -61,12 +61,12 @@ See more repositories on my profile for experiments, labs, and product ideas.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saravanavel07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saravanavel07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats with activity icons" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanavel07&layout=compact&theme=radical&hide_border=true" alt="Most-used programming languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanavel07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanavel07&theme=radical&hide_border=true" alt="Animated GitHub contribution streak" />
 </div>
 
 ---
@@ -94,5 +94,5 @@ See more repositories on my profile for experiments, labs, and product ideas.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&fontSize=35&animation=twinkling" alt="Animated footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&fontSize=35&animation=twinkling" alt="Animated gradient footer banner" />
 </p>
